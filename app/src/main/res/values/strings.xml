@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="search">Search</string>
+    <string name="followers_121">Followers: 121</string>
+    <string name="following_5">Following: 5</string>
+    <string name="lorem_ipsum">Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum</string>
+    <string name="no_username_found">No username found</string>
+    <string name="save">Save</string>
+</resources>
